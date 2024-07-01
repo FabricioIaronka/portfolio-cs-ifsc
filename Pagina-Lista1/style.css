@@ -1,0 +1,21 @@
+#ifsc-logo {
+    width: 250px;
+}
+#page-title{
+    text-align: left;
+    font-size: large;
+    font-family: 'Comic Sans MS';
+}
+#bar {
+    background-color: green;
+}
+#title-dropdown {
+    text-align: center;
+    font-weight: bold;
+}
+#ditem {
+    background-color: rgba(207, 207, 207, 0.089);
+}
+#navitem{
+    font-family: 'Unispace';
+}
