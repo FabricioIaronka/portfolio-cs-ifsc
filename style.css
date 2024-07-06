@@ -40,7 +40,7 @@ hr{
     color: aliceblue;
 }
 body{
-    background-image:url(/matrix.gif);
+    background-image:url(matrix.gif);
 }
 #main{
     background-color: rgb(0, 0, 0);
