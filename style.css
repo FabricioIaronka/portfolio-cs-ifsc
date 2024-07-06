@@ -2,20 +2,61 @@
     width: 250px;
 }
 #page-title{
-    text-align: left;
+    text-align: center;
     font-size: large;
     font-family: 'Comic Sans MS';
+    color:aliceblue;
 }
 #bar {
-    background-color: green;
+    background-color: rgb(0, 0, 0);
+    border-style: groove;
+    border-color:white;
+    border-radius: 8px;
+}
+#navbarSupportedContent{
+    background-color: rgba(0, 0, 0, 0);
+}
+#dropdown{
+    background-color: black;
+    color:white;
+    border-style: groove;
+    border-color: white;
+
 }
 #title-dropdown {
     text-align: center;
     font-weight: bold;
 }
 #ditem {
-    background-color: rgba(207, 207, 207, 0.089);
+    background-color: rgba(255, 255, 255, 0);
+    color: white;
+}
+hr{
+    background-color:white;
+    color: white;
 }
 #navitem{
     font-family: 'Unispace';
+    color: aliceblue;
+}
+body{
+    background-image:url(/matrix.gif)
+}
+#main{
+    background-color: rgb(0, 0, 0);
+    border-style: groove;
+    border-color: white;
+    border-radius: 8px;
+    color:white;
+}
+#github{
+    color: white;
+}
+#questao{
+    border-style: groove;
+    border-color: white;
+    border-left: 0px;
+    border-right: 0px;
+    border-bottom: 0px;
+    border-width: 2px;
 }
